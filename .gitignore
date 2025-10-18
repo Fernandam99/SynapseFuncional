@@ -1,0 +1,5 @@
+node_modules
+.venv
+source
+__pycache__
+data.db
