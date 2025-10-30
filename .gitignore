@@ -1,5 +1,10 @@
-node_modules
-.venv
-source
-__pycache__
-data.db
+venv/
+__pycache__/
+node_modules/
+.env
+logs/
+.env.*
+.venv/
+backend/venv/
+
+client_secret_130484826871-a78ov6k01ns9fpa2kd6lfefog54fmpnr.apps.googleusercontent.com.json
